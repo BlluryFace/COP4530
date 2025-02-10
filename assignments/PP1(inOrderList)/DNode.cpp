@@ -1,4 +1,5 @@
-// Name: Huy Bui
+// Name: Huy Bui U82390903
+// Name: Jamie Giarratana U81686143
 // Description: Class for DNode structure
 class DNode{
 public:

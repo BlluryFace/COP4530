@@ -1,4 +1,6 @@
-//           Doubly-linked list class to store integers
+// Name: Huy Bui U82390903
+// Name: Jamie Giarratana U81686143
+// Description Header for the Doubly Linked List Node
 #ifndef DNODE_H
 #define DNODE_H
 class DNode{

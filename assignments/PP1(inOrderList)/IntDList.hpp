@@ -1,7 +1,8 @@
 //
 // Created by admin on 2/1/25.
-//
-
+// Name: Huy Bui U82390903
+// Name: Jamie Giarratana U81686143
+// Description Header for the Doubly Linked List
 #ifndef INTDLIST_H
 #define INTDLIST_H
 #include <iostream>
