@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/COP4530/cmake-build-debug/CMakeFiles/COP4530.dir
+/Users/admin/CLionProjects/COP4530/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/COP4530/cmake-build-debug/CMakeFiles/rebuild_cache.dir

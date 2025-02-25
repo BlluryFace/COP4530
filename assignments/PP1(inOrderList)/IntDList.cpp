@@ -165,3 +165,10 @@ string IntDList::addToString() const
     }
     return vals;
 }
+
+IntDList& IntDList::contactenate(IntDList& L2){
+    tail->next = L2.head;
+    L2.head->prev = tail;
+    tail = L2.tail;
+    return *this;
+}

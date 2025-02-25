@@ -1,0 +1,20 @@
+# ninja log v5
+0	300	1739485939417386804	CMakeFiles/PP1.dir/assignments/PP1(inOrderList)/main.cpp.o	b27f088480fe273c
+0	442	1739095219887037285	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/main.cpp.o	721dea5224da675e
+0	422	1736560682936463038	CMakeFiles/COP4530.dir/main.cpp.o	df8cd837ec7c9f06
+1	4261	1739477613212262981	CMakeFiles/PP1.dir/assignments/PP1(inOrderList)/intDList_test.cpp.o	d4f3596d544b8110
+7	727	1738466052390427192	CMakeFiles/COP4530.dir/peerLeading/week1/part1.cpp.o	9300051cee1e6d4c
+0	428	1739140828269691374	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/DNode.cpp.o	9d2a089409b53037
+24333	24676	1739147532867061738	COP4530	5d64b55882e9596b
+1	24333	1739147532507001312	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/intDList_test.cpp.o	4d0ed4074443d0b2
+0	4777	1739147512946066278	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/IntDList.cpp.o	dc218a850eb89957
+453	542	1739486880350972060	PP1	ff11a7f8bd0b031f
+1	453	1739486880261455176	CMakeFiles/PP1.dir/assignments/PP1(inOrderList)/IntDList.cpp.o	e97b42145c2f3fd0
+7	68	1740516765841186263	build.ninja	12b719ccba6ee6f7
+4	569	1736898789242788020	CMakeFiles/COP4530.dir/classMaterials/week1p1/madLibs.cpp.o	c7b9d1e81b64bdc8
+0	38	1739485509384760715	CMakeFiles/PP1.dir/assignments/PP1(inOrderList)/DNode.cpp.o	55b0b37c2d48ae3e
+4	568	1736898789242788936	CMakeFiles/COP4530.dir/classMaterials/week1p1/main.cpp.o	466a5d9f43c6dda3
+0	114	1740516775823113690	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/DNode.cpp.o	9d2a089409b53037
+0	362	1740516776060140363	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/IntDList.cpp.o	dc218a850eb89957
+0	2725	1740516778420573604	CMakeFiles/COP4530.dir/assignments/PP1(inOrderList)/intDList_test.cpp.o	4d0ed4074443d0b2
+2725	2895	1740516778596521979	COP4530	5d64b55882e9596b

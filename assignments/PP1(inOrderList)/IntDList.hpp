@@ -25,6 +25,7 @@ public:
     void printAll() const;
     //This method returns the string of the ordered integers
     string addToString() const;
+    IntDList& contactenate(IntDList& L2);
 private:
     bool isEmpty() const;
     DNode* head;
